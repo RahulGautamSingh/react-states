@@ -1,6 +1,6 @@
 function Card(props) {
   return (
-    <div className="container">
+    <>
       <div
         className="card card1"
         style={{ backgroundColor: props.color }}
@@ -21,7 +21,7 @@ function Card(props) {
         className="card card5"
         style={{ backgroundColor: props.color }}
       ></div>
-    </div>
+    </>
   );
 }
 
