@@ -1,27 +1,27 @@
 function Card(props) {
   return (
-    <>
+   <>
       <div
-        className="card card1"
+        className="card" id="card1"
         style={{ backgroundColor: props.color }}
       ></div>
       <div
-        className="card card2"
+        className="card "id="card2"
         style={{ backgroundColor: props.color }}
       ></div>
       <div
-        className="card card3"
+        className="card "id="card3"
         style={{ backgroundColor: props.color }}
       ></div>
       <div
-        className="card card4"
+        className="card "id="card4"
         style={{ backgroundColor: props.color }}
       ></div>
       <div
-        className="card card5"
+        className="card"id="card5"
         style={{ backgroundColor: props.color }}
       ></div>
-    </>
+ </>
   );
 }
 
