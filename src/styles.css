@@ -27,27 +27,6 @@
     width: 150px;
     height: 150px;
 }
-
-#card1 {
-    opacity: 50%;
-}
-
-#card2 {
-    opacity: 60%;
-}
-
-#card3 {
-    opacity: 75%;
-}
-
-#card4 {
-    opacity: 90%;
-}
-
-#card5 {
-    opacity: 100%;
-}
-
 button {
     margin: 20px 0;
     width: fit-content;
