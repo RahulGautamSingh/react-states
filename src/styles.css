@@ -1,19 +1,19 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
 }
 
-.e-container{
-    background-color:white;
-    width:100vw;
-    height:100vh;
-    display:flex;
-    flex-flow:column;
-    overflow:hidden;
-align-items:center;
-    justify-content:flex-start;
-    gap:30px;
+.e-container {
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+    overflow: hidden;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
 }
 
 .container {
@@ -26,7 +26,6 @@ align-items:center;
     background-color: white;
     width: 150px;
     height: 150px;
-/*     opacity: 10%; */
 }
 
 .card1 {
@@ -49,12 +48,12 @@ align-items:center;
     opacity: 100%;
 }
 
-button{
-    margin:20px 0;
-    width:fit-content;
-    height:30px;
-    background-color:black;
-    border:3px solid white;
-    border-radius:6px;
-    color:white;
+button {
+    margin: 20px 0;
+    width: fit-content;
+    height: 30px;
+    background-color: black;
+    border: 3px solid white;
+    border-radius: 6px;
+    color: white;
 }
